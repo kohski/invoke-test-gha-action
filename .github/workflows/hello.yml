@@ -7,4 +7,4 @@ jobs:
     name: Hello
     steps:
       - name: Hello
-        uses: kohski/test-gha-action@v1.0.0
+        uses: kohski/test-gha-action@v1.1.0
